@@ -1,1 +1,3 @@
-# Titanis_details
+**Titanic Data Analysis**
+Survival Rates by Demographics:
+The provided text is a Python script utilizing the pandas and matplotlib libraries to analyze the survival data from the Titanic passenger manifest. The script reads a CSV file, handles missing values in the 'Age' and 'Embarked' columns, and removes the 'Cabin' column. It then categorizes passengers by age and passenger class before calculating and visualizing survival rates based on gender, age group, and class using bar charts. Ultimately, this script aims to explore and illustrate factors that may have influenced survival on the Titanic.
